@@ -90,6 +90,9 @@
     font-size: 13px;
     font-weight: bold;
 }
+.col-md-7 h6{
+	padding-right: 166px;
+}
 footer .panel-default{
 	background: black;
 	color:#CACCCD;
